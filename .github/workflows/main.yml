@@ -20,5 +20,3 @@ jobs:
           leetcode_username: "ikramchafai"
           leetcode_password: ${{ secrets.LEETCODE_PASSWORD }}
           repo_name: "ikramch23/LeetCode-GitHub-Integration"
-
-   
