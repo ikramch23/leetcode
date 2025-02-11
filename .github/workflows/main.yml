@@ -1,4 +1,4 @@
-name: Sync LeetCode Solutions
+name: LeetCode-GitHub-Integration
 
 on:
   schedule:
