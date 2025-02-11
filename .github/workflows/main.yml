@@ -18,6 +18,7 @@ jobs:
         with:
           github_token: ${{ secrets.LEETCODE_TOKEN }}
           leetcode_username: "ikramchafai"
-          leetcode_password: "LABLOBsara2020@"
-          repo_name: "ikramch23/@LeetCode-GitHub-Integration"
+          leetcode_password: ${{ secrets.LEETCODE_PASSWORD }}
+          repo_name: "ikramch23/LeetCode-GitHub-Integration"
+
    
